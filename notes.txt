@@ -1,11 +1,31 @@
-/
-├── index.html
-├── style.css
-├── script.js (minimal)
+your-repo-name/
+│
+├── index.html                          ← main site file
+├── style.css                           ← all styling
+├── script.js                           ← navbar, scroll, animations
+│
 ├── assets/
-│   ├── headshot.jpg
-│   └── resume.pdf
+│   ├── headshot.jpg                    ← your professional photo
+│   ├── resume.pdf                      ← downloadable CV
+│   │
+│   └── beyond/
+│       ├── event-1.jpg                 ← corporate event / hosting
+│       ├── event-2.jpg
+│       ├── event-3.jpg
+│       ├── fitness-1.jpg               ← gym / sports
+│       ├── fitness-2.jpg
+│       ├── travel-1.jpg                ← travel / adventure
+│       ├── travel-2.jpg
+│       └── dance-1.jpg                 ← dancing
+│
 └── portfolio/
     ├── week1-risk-register.pdf
     ├── week2-infosec-policy.pdf
-    └── ... (all 9 deliverables)
+    ├── week3-isms-design.pdf
+    ├── week4-soa-risk-treatment.pdf
+    ├── week5-nist-csf-profile.pdf
+    ├── week6-soc2-readiness.pdf
+    ├── week7-grc-blueprint.pdf
+    ├── week8-tprm-framework.pdf
+    ├── week9-ai-governance.pdf
+    └── week10-regulatory-matrix.pdf
